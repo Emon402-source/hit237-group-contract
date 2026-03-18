@@ -97,3 +97,4 @@ If unresolved:
 
 ## Conclusion  
 This contract ensures fair collaboration, clear communication, and successful completion of the project.
+All members agree to review and update this contract as the project progresses.
