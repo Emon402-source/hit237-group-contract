@@ -8,7 +8,7 @@ All communication attempts and lack of responses can be verified if required.
 # GROUP CONTRACT – HIT237  
 **Group Number:** 13  
 
-**Project Theme:** Smart Blog & Content Management System  
+**Project Theme:** Water & Environmental Governance – A system designed to support environmental monitoring, data management, and governance of water resources.
 
 **Team Members:**  
 - Md Rakibul Hassan Emon  
